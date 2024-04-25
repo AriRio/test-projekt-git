@@ -1,2 +1,3 @@
-let sName = toString(prompt("Jak se jmenuješ ? "));
+let sName = prompt("Jak se jmenuješ ? ");
+console.log(sName);
 alert("Ahoj " + sName + "!!!");
