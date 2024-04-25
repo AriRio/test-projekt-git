@@ -1,2 +1,2 @@
-let sName = +(prompt("Jak se jmenuješ ? "));
+let sName = toString(prompt("Jak se jmenuješ ? "));
 alert("Ahoj " + sName + "!!!");
